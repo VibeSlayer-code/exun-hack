@@ -1,1 +1,1 @@
-# exun-hack
+# exun-hackathon
